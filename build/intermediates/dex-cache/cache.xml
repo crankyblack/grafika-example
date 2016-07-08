@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Source\Android\grafika-example\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d8b1a9e938a83e94591810dbc9ef6e8f4cdbc9bd">
+        <dex dex="C:\Source\Android\grafika-example\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_22a92d9259b15f8a37f8b3da3859f1f399703a1b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android\android-sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Source\Android\grafika-example\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_ec53463f0c6266568ff3d216ada6a9fc03ef4c2c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Source\Android\grafika-example\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4b1a450ddaa12674d87dda28f0d01eb37199e9e5">
+        <dex dex="C:\Source\Android\grafika-example\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_9ce483aee3d827e5bf5c485971a1f76e01785c95\classes.dex" />
+    </item>
+
+</items>
